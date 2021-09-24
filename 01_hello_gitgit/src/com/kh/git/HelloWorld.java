@@ -1,6 +1,11 @@
 package com.kh.git;
 
 import com.kh.animal.Cat;
+
+/**
+ * 원격 저장소 등록 후 push 할 수 있다.
+ */
+
 import com.kh.animal.Dog;
 import com.kh.foo.Foo;
 
