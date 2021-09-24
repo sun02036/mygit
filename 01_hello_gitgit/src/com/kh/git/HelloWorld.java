@@ -24,4 +24,10 @@ public class HelloWorld {
 		new Cat().say();
 	}
 
+	/**
+	* 원격 저장소에서 수정된 내용
+	*/
+	public void hello() {
+		System.out.println("저를 fetch해주세요!");
+	}
 }
